@@ -95,7 +95,7 @@ type casting involves changing the data type of a variable or value from one typ
 Outliers are data points that significantly deviate from the majority of data points in dataset, these extreme values can distort statistical measures and models. leading to inaccurate or biased results.
 Here after obeserving the plot majority data points in average daily rate is around 500 units and only on data point is above 5000 which doesn't make any sense, hence removing the outlier. *by this step total rows are 87,395 and columns are 33*
 
-## Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables*
+## Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
 #### **Univariate Analysis -**
 
 Chart - 1 City Hotel vs. Resort hotel bookings Analysis
